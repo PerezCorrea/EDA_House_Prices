@@ -8,4 +8,4 @@ He is specially interested in proving these points:
     2. One extra bedroom increases the price more than one extra bathroom.
     3. The biggest lots are situated far from the city center.
     
-The analysis was done in a Jupyter Notebook and the most important results were shown in the slides.
+The analysis was done in a [Jupyter Notebook ](https://github.com/PerezCorrea/EDA_House_Prices/blob/7880b8f7b7e23351e5b89ad8a2b4f3329fc280c1/EDA_Housing_prices.ipynband) the most important results were shown in the [slides](https://github.com/PerezCorrea/EDA_House_Prices/blob/7880b8f7b7e23351e5b89ad8a2b4f3329fc280c1/CK_House_Prices.pdf).
